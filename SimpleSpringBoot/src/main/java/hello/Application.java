@@ -11,7 +11,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class Application {
 
     public static void main(String[] args) {
-        // http://localhost:8080/
+        // http://localhost:8080/rrr
         SpringApplication.run(Application.class, args);
     }
 }
